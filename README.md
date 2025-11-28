@@ -11,4 +11,6 @@ No seu vscode ou editor de código de preferência, abra o terminal e instale a 
 ```bash
 pip install ursina
 ```
-## Execute o projeto com `python <nomedoarquivo>.py`
+## Como executar o projeto?
+
+- python `<nomedoarquivo>.py`
