@@ -16,11 +16,13 @@ Se você ainda não tem o Python instalado na sua máquina, instale a versão [3
 
 ## Dependência do projeto
 
-No seu vscode ou editor de código de preferência, abra o terminal e instale a seguinte dependência:
+Já com o Python instalado, No seu vscode ou editor de código de preferência, abra o terminal e instale a seguinte dependência:
 
 ```bash
 pip install ursina
 ```
+
+Se ele retornar algum erro ao tentar instalar, e porque a versão do seu python e incompátivel com a biblioteca ursina
 
 </p>
 
