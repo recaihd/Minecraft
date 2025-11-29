@@ -47,5 +47,6 @@ def input(key):
         boxes.remove(box)
         destroy(box)
 
+# inicia o jogo
 
 app.run()
